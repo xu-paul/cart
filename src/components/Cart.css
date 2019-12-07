@@ -1,0 +1,22 @@
+.cart-item{
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+.cart-item li{
+    margin-top: 10px;
+    color: black;
+ 
+}
+.cart-item img{
+    width: 50px;
+    height: 50px;  
+     margin-right: 10px;
+}
+.cart-title{
+    text-align: center;
+}
+.total{
+    margin:10px ;
+    color: black;
+}

@@ -1,0 +1,12 @@
+.ant-layout-header,
+.ant-layout-footer {
+  background: #7dbcea;
+  color: #fff;
+}
+.ant-layout-content {
+   margin:50px
+    
+  }
+.ant-layout-footer{
+ text-align: left;
+}
